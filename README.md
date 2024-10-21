@@ -23,8 +23,6 @@ The **Laboratory Information System (LIS)** backend is built to be focused on **
   ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- **Email Notifications**:  
-  ![Nodemailer](https://img.shields.io/badge/Nodemailer-%230072B1.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
@@ -40,7 +38,7 @@ Manages user roles, approvals, and system settings for the LIS.
 ### [Data Security Management](#)
 Implements robust security protocols for handling and storing sensitive data.
 
-- **My Role**: Ensured secure storage of base64-encoded profile images, and handled password encryption using `bcrypt`.
+- **My Role**: Ensured secure storage of base64-encoded profile images, and handled password encryption using bycript.
 - **Tech Stack**: Node.js, MongoDB
 - **Status**: Completed
 
